@@ -1,0 +1,34 @@
+So, now you know how to understand and write a little bit of python and want to start your own project? 
+
+Good. 
+
+Now is where you download python and set up your VSCode (my favorite Code editor).
+
+
+Downloading python is simple. In fact your computer probably comes with it preinstalled. However to keep up to date with the newest features and safety measures, 
+go to: 
+
+https://www.python.org/downloads/
+
+Now download the version that corresponds to the Operating System (OS) you have on your computer (Windows, Mac, Linux etc.)
+
+Follow the instructions and you should have python downloaded! (Contact me if anything goes wrong). 
+
+
+
+
+Next, download VScode. VSCode is a code editor used by professionals world wide, and is easy to use. 
+
+https://code.visualstudio.com/download
+
+Once you are finished downloading the app, go to "Extensions" (on the left side bar, the Icon with a disassembled grid)
+
+From there, download the following extensions:
+1. Python (duh) <--- [the only "Necessary" one]
+2. Python Extension Pack
+3. Python Environment Manager
+4. Python Extended
+
+Once finished, try it out! Go to "Files" and open a folder. In that folder, create a new file called "Anything.py". The ".py" at the end specifies that this is a python script and will execute as such. 
+Code whatever you want and when you're done, press the play button on the top right. 
+
